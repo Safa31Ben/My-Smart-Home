@@ -1,0 +1,7 @@
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server bib\bin\Debug\Server bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server bib\bin\Debug\Server bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server bib\bin\Debug\Smart Home bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server bib\bin\Debug\Smart Home bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server bib\obj\Debug\Server bib.csprojResolveAssemblyReference.cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server bib\obj\Debug\Server bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server bib\obj\Debug\Server bib.pdb

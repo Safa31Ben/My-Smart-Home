@@ -1,0 +1,13 @@
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\Server.exe.config
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\Server.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\Server.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\MySql.Data.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\Server bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\Smart Home bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\Server bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\Smart Home bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\obj\Debug\Server.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\obj\Debug\Server.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\Système de sécurité bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Server\bin\Debug\Système de sécurité bib.pdb
