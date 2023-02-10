@@ -1,0 +1,12 @@
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\bin\Debug\Systeme de surveillance.exe.config
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\bin\Debug\Systeme de surveillance.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\bin\Debug\Systeme de surveillance.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\bin\Debug\Système de surveillance bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\bin\Debug\Système de surveillance bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\obj\Debug\Systeme de surveillance.csprojResolveAssemblyReference.cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\obj\Debug\Systeme de surveillance.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\obj\Debug\Systeme de surveillance.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\bin\Debug\Système de sécurité bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\bin\Debug\Smart Home bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\bin\Debug\Système de sécurité bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Systeme de surveillance\bin\Debug\Smart Home bib.pdb

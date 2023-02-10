@@ -1,0 +1,5 @@
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de surveillance bib\bin\Debug\Système de surveillance bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de surveillance bib\bin\Debug\Système de surveillance bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de surveillance bib\obj\Debug\Système de surveillance bib.csprojResolveAssemblyReference.cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de surveillance bib\obj\Debug\Système de surveillance bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de surveillance bib\obj\Debug\Système de surveillance bib.pdb
