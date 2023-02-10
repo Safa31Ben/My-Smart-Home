@@ -1,0 +1,7 @@
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de sécurité bib\bin\Debug\Système de sécurité bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de sécurité bib\bin\Debug\Système de sécurité bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de sécurité bib\obj\Debug\Système de sécurité bib.csprojResolveAssemblyReference.cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de sécurité bib\obj\Debug\Système de sécurité bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de sécurité bib\obj\Debug\Système de sécurité bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de sécurité bib\bin\Debug\Smart Home bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Système de sécurité bib\bin\Debug\Smart Home bib.pdb
