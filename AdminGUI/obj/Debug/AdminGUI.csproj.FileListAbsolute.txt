@@ -1,0 +1,25 @@
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\AdminGUI.exe.config
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\AdminGUI.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\AdminGUI.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\Server bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\Smart Home bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\Server bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\Smart Home bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.csprojResolveAssemblyReference.cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.Properties.Resources.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.csproj.GenerateResource.Cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.AddAccount.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.HistoForm.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.NotificationForm.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.AdminGUI.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\Système de surveillance bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\Système de surveillance bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\Système de sécurité bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\Système de sécurité bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.CameraForm.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.Comptes.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\obj\Debug\AdminGUI.Login.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\AdminGUI\bin\Debug\AForge.Video.dll
