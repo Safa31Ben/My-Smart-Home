@@ -1,0 +1,17 @@
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Personne.exe.config
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Personne.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Personne.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Système de surveillance bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Système de sécurité bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Système de surveillance bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Système de sécurité bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\obj\Debug\Personne.csprojResolveAssemblyReference.cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\obj\Debug\Personne.Properties.Resources.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\obj\Debug\Personne.csproj.GenerateResource.Cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\obj\Debug\Personne.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\obj\Debug\Personne.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Smart Home bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Smart Home bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\obj\Debug\Personne.PersonneGUI.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Server bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Personne\bin\Debug\Server bib.pdb
