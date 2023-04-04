@@ -1,0 +1,13 @@
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\obj\Debug\Porte.csprojResolveAssemblyReference.cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\obj\Debug\Porte.Porte.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\obj\Debug\Porte.Properties.Resources.resources
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\obj\Debug\Porte.csproj.GenerateResource.Cache
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\bin\Debug\Porte.exe.config
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\bin\Debug\Porte.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\bin\Debug\Porte.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\bin\Debug\Server bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\bin\Debug\Smart Home bib.dll
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\bin\Debug\Server bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\bin\Debug\Smart Home bib.pdb
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\obj\Debug\Porte.exe
+C:\Users\Safa BENABDESSADOK\documents\visual studio 2012\Projects\Smart House\Porte\obj\Debug\Porte.pdb
